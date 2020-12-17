@@ -1,0 +1,9 @@
+The mean of 1, 2, 3, 4 is: 2
+
+ test value: 0
+
+ example value: 1
+
+ ex2 value: 1
+
+ ex3 value: 12
